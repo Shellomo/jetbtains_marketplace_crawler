@@ -1,0 +1,25 @@
+# Virtual environment
+.venv/
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Logs
+*.log
+
+# Database files
+*.db
+
+# Data files
+extensions/
+*.csv
+*.json
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Environment variables
+.env
